@@ -1,0 +1,24 @@
+{
+  "avatar": "https://i.pravatar.cc/150?u=a042581f4e29026704d",
+  "name": "Jessica Randall",
+  "location": "London, United Kingdom",
+  "bio": "Front-end developer and avid reader.",
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com"
+    }
+  ]
+}
